@@ -1,0 +1,26 @@
+[
+  {
+    "title": "URL Shortener",
+    "imageSrc": "projects/projectimg.png",
+    "description": "handling the user given URL through post method and returning the short URL",
+    "skills": ["Express", "Node","mongoose"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "Authentication",
+    "imageSrc": "projects/projectimg.png",
+    "description": "getting user's data from signup page and validating the login session with user credentials",
+    "skills": ["Node", "Express", "mongoDB"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "To-Do List",
+    "imageSrc": "projects/projectimg.png",
+    "description": "A basic todo list app using java Script adding of items in the list and using local storage to store list items",
+    "skills": ["HTML", "CSS", "Java Script"],
+    "demo": "#",
+    "source": "#"
+  }
+]
